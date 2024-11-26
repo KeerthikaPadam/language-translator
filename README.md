@@ -20,7 +20,7 @@ This is a simple **Language Translator** application built with **Python** using
 
 1. **Clone the repository** or download the script:
    ```bash
-   git clone https://github.com/yourusername/language-translator.git
+   git clone https://github.com/KeerthikaPadam/language-traslator.git
    cd language-translator
    ```
 
